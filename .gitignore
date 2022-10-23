@@ -1,0 +1,9 @@
+.vscode/
+*.pdf
+*.exe
+*.hwp
+*.docx
+test.cpp
+test2.cpp
+random.cpp
+base.cpp
