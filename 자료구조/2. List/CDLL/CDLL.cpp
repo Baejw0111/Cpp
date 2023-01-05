@@ -108,7 +108,7 @@ lst::CDLL<T>::~CDLL(){
     head->next->prev->next=NULL;
 
     while(head){
-        link tmp=head;
+        node_ptr tmp=head;
         head=head->next;
         delete tmp;
     }
