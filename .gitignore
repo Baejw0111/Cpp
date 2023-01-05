@@ -1,5 +1,6 @@
 .vscode/
 우테코/
+build/
 *.pdf
 *.exe
 *.hwp
